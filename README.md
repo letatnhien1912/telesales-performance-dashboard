@@ -2,6 +2,8 @@
 
 <p align="center"><img src="./imgs/summary.png" width=600px /></p>
 
+👉🏻 [View Report](https://app.powerbi.com/view?r=eyJrIjoiYjgzYzE5YjctMGFhNy00OTJkLTlhNjYtM2ZmNDlhYjE0MjcyIiwidCI6ImYwNmQ2MDFjLTAzZjItNGU3Mi1iYmMwLTNhNDA5NDcyNzJkMyIsImMiOjEwfQ%3D%3D)
+
 ### **Project Description**
 * The Sales Performance Dashboard is a comprehensive tool designed with Power BI to provide actionable insights into telesales operations. It features 5 interactive pages, each dedicated to a unique aspect of performance analysis: Overview Analysis, Agent Performance Analysis, Detailed Agent Performance and Forecast, Call Connectivity Analysis, and Performance by Product Lines Over Time.
 * With a modern and user-friendly interface, the dashboard seamlessly integrates data from multiple sources, including Salesforce, Excel files, and telesales platforms. It leverages complex transformations using DAX and Power Query to ensure data accuracy and consistency.
